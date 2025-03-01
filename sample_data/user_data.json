@@ -1,0 +1,22 @@
+{
+  "user": {
+    "id": "12345",
+    "name": "John Doe",
+    "age": 30,
+    "gender": "male",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "interests": [
+      "reading",
+      "traveling",
+      "coding"
+    ]
+  },
+  "sentences": [
+    "I can has cheeseburger.",
+    "She don't like apples.",
+    "He go to school every day."
+  ]
+}

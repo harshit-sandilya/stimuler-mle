@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "The movie was very good.",
+    "words": [
+      "very good"
+    ],
+    "alternatives": [
+      "excellent",
+      "outstanding"
+    ]
+  },
+  {
+    "sentence": "He is a nice person.",
+    "words": [
+      "nice"
+    ],
+    "alternatives": [
+      "kind",
+      "pleasant"
+    ]
+  },
+  {
+    "sentence": "She is really happy today.",
+    "words": [
+      "really happy"
+    ],
+    "alternatives": [
+      "ecstatic",
+      "thrilled"
+    ]
+  },
+  {
+    "sentence": "The food was bad.",
+    "words": [
+      "bad"
+    ],
+    "alternatives": [
+      "terrible",
+      "unappetizing"
+    ]
+  },
+  {
+    "sentence": "He is a smart guy.",
+    "words": [
+      "smart"
+    ],
+    "alternatives": [
+      "intelligent",
+      "brilliant"
+    ]
+  },
+  {
+    "sentence": "The view was beautiful.",
+    "words": [
+      "beautiful"
+    ],
+    "alternatives": [
+      "breathtaking",
+      "stunning"
+    ]
+  },
+  {
+    "sentence": "I am very tired.",
+    "words": [
+      "very tired"
+    ],
+    "alternatives": [
+      "exhausted",
+      "drained"
+    ]
+  },
+  {
+    "sentence": "He was talking a lot.",
+    "words": [
+      "talking a lot"
+    ],
+    "alternatives": [
+      "rambling",
+      "chatting excessively"
+    ]
+  },
+  {
+    "sentence": "The project is very important.",
+    "words": [
+      "very important"
+    ],
+    "alternatives": [
+      "crucial",
+      "essential"
+    ]
+  },
+  {
+    "sentence": "This is a big problem.",
+    "words": [
+      "big"
+    ],
+    "alternatives": [
+      "significant",
+      "major"
+    ]
+  },
+  {
+    "sentence": "She was a very strong woman.",
+    "words": [
+      "very strong"
+    ],
+    "alternatives": [
+      "powerful",
+      "resilient"
+    ]
+  },
+  {
+    "sentence": "He is a funny guy.",
+    "words": [
+      "funny"
+    ],
+    "alternatives": [
+      "hilarious",
+      "witty"
+    ]
+  },
+  {
+    "sentence": "The house was very old.",
+    "words": [
+      "very old"
+    ],
+    "alternatives": [
+      "ancient",
+      "historic"
+    ]
+  },
+  {
+    "sentence": "This test is very easy.",
+    "words": [
+      "very easy"
+    ],
+    "alternatives": [
+      "simple",
+      "effortless"
+    ]
+  },
+  {
+    "sentence": "I feel very sad.",
+    "words": [
+      "very sad"
+    ],
+    "alternatives": [
+      "heartbroken",
+      "miserable"
+    ]
+  },
+  {
+    "sentence": "The dog is very fast.",
+    "words": [
+      "very fast"
+    ],
+    "alternatives": [
+      "swift",
+      "speedy"
+    ]
+  },
+  {
+    "sentence": "That was a very interesting book.",
+    "words": [
+      "very interesting"
+    ],
+    "alternatives": [
+      "captivating",
+      "fascinating"
+    ]
+  },
+  {
+    "sentence": "He is very angry.",
+    "words": [
+      "very angry"
+    ],
+    "alternatives": [
+      "furious",
+      "enraged"
+    ]
+  },
+  {
+    "sentence": "The weather is very cold.",
+    "words": [
+      "very cold"
+    ],
+    "alternatives": [
+      "freezing",
+      "frigid"
+    ]
+  },
+  {
+    "sentence": "She is a very kind person.",
+    "words": [
+      "very kind"
+    ],
+    "alternatives": [
+      "compassionate",
+      "generous"
+    ]
+  },
+  {
+    "sentence": "This is a very dangerous place.",
+    "words": [
+      "very dangerous"
+    ],
+    "alternatives": [
+      "hazardous",
+      "perilous"
+    ]
+  },
+  {
+    "sentence": "He is very brave.",
+    "words": [
+      "very brave"
+    ],
+    "alternatives": [
+      "courageous",
+      "fearless"
+    ]
+  },
+  {
+    "sentence": "This cake is very delicious.",
+    "words": [
+      "very delicious"
+    ],
+    "alternatives": [
+      "scrumptious",
+      "delectable"
+    ]
+  },
+  {
+    "sentence": "She was very excited about the trip.",
+    "words": [
+      "very excited"
+    ],
+    "alternatives": [
+      "thrilled",
+      "elated"
+    ]
+  },
+  {
+    "sentence": "He is very rich.",
+    "words": [
+      "very rich"
+    ],
+    "alternatives": [
+      "wealthy",
+      "affluent"
+    ]
+  },
+  {
+    "sentence": "This book is very boring.",
+    "words": [
+      "very boring"
+    ],
+    "alternatives": [
+      "dull",
+      "uninteresting"
+    ]
+  },
+  {
+    "sentence": "I am very scared.",
+    "words": [
+      "very scared"
+    ],
+    "alternatives": [
+      "terrified",
+      "petrified"
+    ]
+  },
+  {
+    "sentence": "She is a very talented musician.",
+    "words": [
+      "very talented"
+    ],
+    "alternatives": [
+      "gifted",
+      "exceptional"
+    ]
+  },
+  {
+    "sentence": "The exam was very difficult.",
+    "words": [
+      "very difficult"
+    ],
+    "alternatives": [
+      "challenging",
+      "demanding"
+    ]
+  },
+  {
+    "sentence": "He is very weak.",
+    "words": [
+      "very weak"
+    ],
+    "alternatives": [
+      "frail",
+      "feeble"
+    ]
+  },
+  {
+    "sentence": "This hotel is very clean.",
+    "words": [
+      "very clean"
+    ],
+    "alternatives": [
+      "spotless",
+      "immaculate"
+    ]
+  },
+  {
+    "sentence": "She was very proud of her work.",
+    "words": [
+      "very proud"
+    ],
+    "alternatives": [
+      "elated",
+      "overjoyed"
+    ]
+  },
+  {
+    "sentence": "The task is very urgent.",
+    "words": [
+      "very urgent"
+    ],
+    "alternatives": [
+      "critical",
+      "pressing"
+    ]
+  },
+  {
+    "sentence": "He was very lazy.",
+    "words": [
+      "very lazy"
+    ],
+    "alternatives": [
+      "sluggish",
+      "lethargic"
+    ]
+  },
+  {
+    "sentence": "She looks very tired.",
+    "words": [
+      "very tired"
+    ],
+    "alternatives": [
+      "drained",
+      "weary"
+    ]
+  },
+  {
+    "sentence": "The sky is very blue today.",
+    "words": [
+      "very blue"
+    ],
+    "alternatives": [
+      "vivid",
+      "azure"
+    ]
+  },
+  {
+    "sentence": "I am very thirsty.",
+    "words": [
+      "very thirsty"
+    ],
+    "alternatives": [
+      "parched",
+      "dehydrated"
+    ]
+  },
+  {
+    "sentence": "He is a very honest person.",
+    "words": [
+      "very honest"
+    ],
+    "alternatives": [
+      "truthful",
+      "sincere"
+    ]
+  },
+  {
+    "sentence": "This room is very quiet.",
+    "words": [
+      "very quiet"
+    ],
+    "alternatives": [
+      "silent",
+      "tranquil"
+    ]
+  },
+  {
+    "sentence": "She is a very creative artist.",
+    "words": [
+      "very creative"
+    ],
+    "alternatives": [
+      "innovative",
+      "imaginative"
+    ]
+  },
+  {
+    "sentence": "His jokes are very silly.",
+    "words": [
+      "very silly"
+    ],
+    "alternatives": [
+      "ridiculous",
+      "absurd"
+    ]
+  },
+  {
+    "sentence": "The mountain is very high.",
+    "words": [
+      "very high"
+    ],
+    "alternatives": [
+      "towering",
+      "elevated"
+    ]
+  },
+  {
+    "sentence": "This lake is very deep.",
+    "words": [
+      "very deep"
+    ],
+    "alternatives": [
+      "profound",
+      "bottomless"
+    ]
+  },
+  {
+    "sentence": "He was very generous with his money.",
+    "words": [
+      "very generous"
+    ],
+    "alternatives": [
+      "charitable",
+      "philanthropic"
+    ]
+  },
+  {
+    "sentence": "The road was very long.",
+    "words": [
+      "very long"
+    ],
+    "alternatives": [
+      "endless",
+      "extensive"
+    ]
+  },
+  {
+    "sentence": "That movie was very emotional.",
+    "words": [
+      "very emotional"
+    ],
+    "alternatives": [
+      "heartfelt",
+      "poignant"
+    ]
+  },
+  {
+    "sentence": "She is very polite.",
+    "words": [
+      "very polite"
+    ],
+    "alternatives": [
+      "courteous",
+      "respectful"
+    ]
+  },
+  {
+    "sentence": "His speech was very inspiring.",
+    "words": [
+      "very inspiring"
+    ],
+    "alternatives": [
+      "motivating",
+      "uplifting"
+    ]
+  }
+]

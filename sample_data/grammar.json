@@ -1,0 +1,425 @@
+[
+  {
+    "sentence": "She don't like coffee.",
+    "errors": [
+      "don't"
+    ],
+    "improvements": [
+      "doesn't"
+    ]
+  },
+  {
+    "sentence": "He go to school every day.",
+    "errors": [
+      "go"
+    ],
+    "improvements": [
+      "goes"
+    ]
+  },
+  {
+    "sentence": "I has a new car.",
+    "errors": [
+      "has"
+    ],
+    "improvements": [
+      "have"
+    ]
+  },
+  {
+    "sentence": "She is more taller than him.",
+    "errors": [
+      "more taller"
+    ],
+    "improvements": [
+      "taller"
+    ]
+  },
+  {
+    "sentence": "They was playing outside.",
+    "errors": [
+      "was"
+    ],
+    "improvements": [
+      "were"
+    ]
+  },
+  {
+    "sentence": "He can to swim very well.",
+    "errors": [
+      "can to swim"
+    ],
+    "improvements": [
+      "can swim"
+    ]
+  },
+  {
+    "sentence": "Yesterday, I go to the park.",
+    "errors": [
+      "go"
+    ],
+    "improvements": [
+      "went"
+    ]
+  },
+  {
+    "sentence": "She didn't knew the answer.",
+    "errors": [
+      "knew"
+    ],
+    "improvements": [
+      "know"
+    ]
+  },
+  {
+    "sentence": "The dog is in the table.",
+    "errors": [
+      "in"
+    ],
+    "improvements": [
+      "on"
+    ]
+  },
+  {
+    "sentence": "Me and my friend went to the store.",
+    "errors": [
+      "Me"
+    ],
+    "improvements": [
+      "My friend and I"
+    ]
+  },
+  {
+    "sentence": "He runned fast.",
+    "errors": [
+      "runned"
+    ],
+    "improvements": [
+      "ran"
+    ]
+  },
+  {
+    "sentence": "She sings good.",
+    "errors": [
+      "good"
+    ],
+    "improvements": [
+      "well"
+    ]
+  },
+  {
+    "sentence": "I am thinking to buy a new phone.",
+    "errors": [
+      "thinking to buy"
+    ],
+    "improvements": [
+      "thinking about buying"
+    ]
+  },
+  {
+    "sentence": "She like chocolate.",
+    "errors": [
+      "like"
+    ],
+    "improvements": [
+      "likes"
+    ]
+  },
+  {
+    "sentence": "There is many books on the table.",
+    "errors": [
+      "is"
+    ],
+    "improvements": [
+      "are"
+    ]
+  },
+  {
+    "sentence": "I didn’t went to school today.",
+    "errors": [
+      "went"
+    ],
+    "improvements": [
+      "go"
+    ]
+  },
+  {
+    "sentence": "The children was playing in the park.",
+    "errors": [
+      "was"
+    ],
+    "improvements": [
+      "were"
+    ]
+  },
+  {
+    "sentence": "He told to me the secret.",
+    "errors": [
+      "told to me"
+    ],
+    "improvements": [
+      "told me"
+    ]
+  },
+  {
+    "sentence": "She is having a brother.",
+    "errors": [
+      "is having"
+    ],
+    "improvements": [
+      "has"
+    ]
+  },
+  {
+    "sentence": "I am agree with you.",
+    "errors": [
+      "am agree"
+    ],
+    "improvements": [
+      "agree"
+    ]
+  },
+  {
+    "sentence": "I enjoyed from the party.",
+    "errors": [
+      "enjoyed from"
+    ],
+    "improvements": [
+      "enjoyed"
+    ]
+  },
+  {
+    "sentence": "He doesn’t listens to music.",
+    "errors": [
+      "listens"
+    ],
+    "improvements": [
+      "listen"
+    ]
+  },
+  {
+    "sentence": "He prefers tea than coffee.",
+    "errors": [
+      "than"
+    ],
+    "improvements": [
+      "to"
+    ]
+  },
+  {
+    "sentence": "She didn't went to the market.",
+    "errors": [
+      "went"
+    ],
+    "improvements": [
+      "go"
+    ]
+  },
+  {
+    "sentence": "I have seen her yesterday.",
+    "errors": [
+      "have seen"
+    ],
+    "improvements": [
+      "saw"
+    ]
+  },
+  {
+    "sentence": "She is feeling very cold today.",
+    "errors": [
+      "is feeling"
+    ],
+    "improvements": [
+      "feels"
+    ]
+  },
+  {
+    "sentence": "He suggested me to go home.",
+    "errors": [
+      "suggested me"
+    ],
+    "improvements": [
+      "suggested that I go"
+    ]
+  },
+  {
+    "sentence": "She is married with a doctor.",
+    "errors": [
+      "married with"
+    ],
+    "improvements": [
+      "married to"
+    ]
+  },
+  {
+    "sentence": "It depends from the weather.",
+    "errors": [
+      "depends from"
+    ],
+    "improvements": [
+      "depends on"
+    ]
+  },
+  {
+    "sentence": "I need some advices.",
+    "errors": [
+      "advices"
+    ],
+    "improvements": [
+      "advice"
+    ]
+  },
+  {
+    "sentence": "She is more prettier than her sister.",
+    "errors": [
+      "more prettier"
+    ],
+    "improvements": [
+      "prettier"
+    ]
+  },
+  {
+    "sentence": "She can to speak Spanish fluently.",
+    "errors": [
+      "can to speak"
+    ],
+    "improvements": [
+      "can speak"
+    ]
+  },
+  {
+    "sentence": "The teacher gave us many homeworks.",
+    "errors": [
+      "homeworks"
+    ],
+    "improvements": [
+      "homework"
+    ]
+  },
+  {
+    "sentence": "He didn't ate anything.",
+    "errors": [
+      "ate"
+    ],
+    "improvements": [
+      "eat"
+    ]
+  },
+  {
+    "sentence": "She is very better now.",
+    "errors": [
+      "very better"
+    ],
+    "improvements": [
+      "much better"
+    ]
+  },
+  {
+    "sentence": "Neither of the boys were late.",
+    "errors": [
+      "were"
+    ],
+    "improvements": [
+      "was"
+    ]
+  },
+  {
+    "sentence": "I am living here since three years.",
+    "errors": [
+      "since three years"
+    ],
+    "improvements": [
+      "for three years"
+    ]
+  },
+  {
+    "sentence": "She enjoys to play the piano.",
+    "errors": [
+      "enjoys to play"
+    ],
+    "improvements": [
+      "enjoys playing"
+    ]
+  },
+  {
+    "sentence": "He said me that he was busy.",
+    "errors": [
+      "said me"
+    ],
+    "improvements": [
+      "told me"
+    ]
+  },
+  {
+    "sentence": "She is more better at math than me.",
+    "errors": [
+      "more better"
+    ],
+    "improvements": [
+      "better"
+    ]
+  },
+  {
+    "sentence": "I am knowing him for two years.",
+    "errors": [
+      "am knowing"
+    ],
+    "improvements": [
+      "have known"
+    ]
+  },
+  {
+    "sentence": "She didn't wrote the letter.",
+    "errors": [
+      "wrote"
+    ],
+    "improvements": [
+      "write"
+    ]
+  },
+  {
+    "sentence": "I look forward to meet you.",
+    "errors": [
+      "meet"
+    ],
+    "improvements": [
+      "meeting"
+    ]
+  },
+  {
+    "sentence": "She can be able to swim.",
+    "errors": [
+      "can be able"
+    ],
+    "improvements": [
+      "can"
+    ]
+  },
+  {
+    "sentence": "The train will leave in time.",
+    "errors": [
+      "in time"
+    ],
+    "improvements": [
+      "on time"
+    ]
+  },
+  {
+    "sentence": "He denied to help me.",
+    "errors": [
+      "denied to help"
+    ],
+    "improvements": [
+      "refused to help"
+    ]
+  },
+  {
+    "sentence": "She is enough tall to reach the shelf.",
+    "errors": [
+      "enough tall"
+    ],
+    "improvements": [
+      "tall enough"
+    ]
+  }
+]
